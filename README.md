@@ -1,5 +1,6 @@
-### Hi there 👋
-<h2 align="center">I'm Suyash</h2>
+
+<h2 align="center">Hey there, I'm Suyash</h2>
+<h3>I talk to Computers.</h3>
 <img align="center" alt="GIF" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kq35as8x8f9vqc83r1o065agwizfaexs17trmtq6&rid=giphy.gif&ct=g" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
