@@ -1,4 +1,6 @@
 ### Hi there 👋
+<h2>I'm Suyash</h2>
+<img align="right" alt="GIF" src="https://media0.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e47kq35as8x8f9vqc83r1o065agwizfaexs17trmtq6&rid=giphy.gif&ct=g" width="500"/>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=suyashrastogi7)](https://github.com/anuraghazra/github-readme-stats)
 <!--
