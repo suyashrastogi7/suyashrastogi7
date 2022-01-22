@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 |--|--|
 
 **Hosting** 
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>|<img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white">|<img src="https://img.shields.io/badge/digital%20ocean-0080FF?style=for-the-badge&logo=digital%20ocean&logoColor=white">|
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white"/>|<img src="https://img.shields.io/badge/vercel-black?style=for-the-badge&logo=vercel&logoColor=white">|<img src="https://img.shields.io/badge/digital%20ocean-0080FF?style=for-the-badge&logo=digital-ocean&logoColor=white">|
 |--|--|--|
 
 **Other Tools**
