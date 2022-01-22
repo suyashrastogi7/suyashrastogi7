@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 **Libraries and Frameworks**
 
 <img src="https://img.shields.io/badge/tailwind%20-%23563D7C.svg?&style=for-the-badge&logo=tailwind&logoColor=white"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
-|--|--|--|
+|--|--|
 
 
 **Databases**
