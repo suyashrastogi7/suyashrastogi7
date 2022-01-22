@@ -29,9 +29,9 @@ Here are some ideas to get you started:
 |--|--|--|
 <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white"/>|<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
-**Libraries and Frameworks**
+**Development**
 
-<img src="https://img.shields.io/badge/tailwind%20-%23563D7C.svg?&style=for-the-badge&logo=tailwind&logoColor=white"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
+<img src="https://img.shields.io/badge/nodejs%20-%23563D7C.svg?&style=for-the-badge&logo=nodejs&logoColor=78b262"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
 |--|--|
 
 
