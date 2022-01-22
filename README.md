@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 **Development**
 
-<img src="https://img.shields.io/badge/-node%20js-339933?logo=node-dot-js&logoColor=white&style=for-the-badge"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
+<img src="https://img.shields.io/badge/-node%20js-339933?logo=nodejs&logoColor=white&style=for-the-badge"/>| <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>|
 |--|--|
 
 
