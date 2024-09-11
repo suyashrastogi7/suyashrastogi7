@@ -53,3 +53,5 @@ Here are some ideas to get you started:
 
 ![suyashrastogi7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=suyashrastogi7&theme=dracula&hide_border=true)
 
+![suyashrastogi7's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suyashrastogi7&theme=dracula&show_icons=true&hide_border=true&layout=compact)
+
